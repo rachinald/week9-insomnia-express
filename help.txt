@@ -1,0 +1,19 @@
+sequelize is a package
+express is a package that gives us a framework for writing rest API's
+
+representational state
+
+Application prcessing interface
+
+Web API = cat pictures
+
+Web API's 
+
+npm install are all packages
+
+sequelize is an object relationship matter it bridges javascript and the database
+
+SQL is the database
+
+raw sequel is WHERE * EQUAL etc
+
